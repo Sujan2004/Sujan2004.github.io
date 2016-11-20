@@ -18,12 +18,17 @@ html {
 }
 
 body {
-	background: $http://www.zaitoona.com/cool-backgrounds-awesome-good-7a.html;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background-image: url("http://freshwallpapers.in/colorful_bars_explosion-wallpapers.HD.jpeg);
+       // background: url("http://www.sociallink1.com/wp-content/uploads/2015/06/Free-Download-Background-Images-For-Website-Design-4.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center; 
+        font: 18px/1.4 $helvetica;
+        color: #ffffff;
 }
 
-.container {
+  
+ .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
